@@ -1,2 +1,2 @@
 # DevDaysSpeakers
-DevDaysSpeakers Creato in collaborazione con Microsoft España
+DevDaysSpeakers Creato da Giuseppe Santorsa in collaborazione con Microsoft España.
